@@ -1,0 +1,16 @@
+[
+{
+  "modid": "",
+  "name": "Harold's Qols",
+  "description": "some funny mods made by a certain harold.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://harold.sh/",
+  "updateUrl": "",
+  "authorList": ["Harold"],
+  "credits": "Shady, for their implementation of ghost blocking",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
